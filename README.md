@@ -1,1 +1,1 @@
-# ders3
+Bu proje ders3 ile ilgili bilgileri içerir.
