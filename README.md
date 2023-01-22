@@ -1,1 +1,1 @@
-Bu proje ders3 ile ilgili bilgileri içerir.
+Bu proje ders3 ile ilgili bilgileri içerir.+
